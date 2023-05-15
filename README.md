@@ -1,6 +1,8 @@
 # Aimable Mardel | Software Engineer
 
-👋🏾 Hi there! I'm Aimable, a passionate and experienced professional with a relentless drive to learn, create, and innovate. With a background in structural engineering I have a keen eye for detail and a strong analytical ability. I have a solid foundation in programming and I'm dedicated to crafting high-quality, efficient, and scalable solutions that make a difference.
+👋🏾 Hi there! I'm Aimable, a passionate and experienced professional with a relentless drive to learn, create, and innovate. I have a background in structural engineering, and I have a keen eye for detail and a strong analytical ability. I have a solid foundation in programming and I'm dedicated to crafting high-quality, efficient, and scalable solutions that make a difference.
+
+My passion for software lies in the ability to think up and create whatever ideas you can dream up, and implementing them elegantly.
 
 🌟 **My Expertise:**
 - Skilled in multiple programming languages, including Python, JavaScript, HTML/CSS
