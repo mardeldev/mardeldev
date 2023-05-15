@@ -4,6 +4,11 @@
 
 My passion for software lies in the ability to think up and create whatever ideas you can dream up, and implementing them elegantly.
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 🌟 **My Expertise:**
 - Skilled in multiple programming languages, including Python, JavaScript, HTML/CSS
 - Certified in cloud solutions with Microsoft Azure
