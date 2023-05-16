@@ -8,11 +8,13 @@
 </em></p>
 
 
-[![Linkedin: aimable-mardel](https://img.shields.io/badge/-aimablemardel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aimable-mardel/)](https://www.linkedin.com/in/aimable-mardel/)
-[![GitHub MardelDev](https://img.shields.io/github/followers/mardeldev?label=follow&style=social)](https://github.com/mardeldev)
 
 
 ### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> A little more about me...  
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ```javascript
 const aimable = {
@@ -25,9 +27,13 @@ const aimable = {
 
 ```
 
-<img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br/>
+<img src="https://media.giphy.com/media/RK55kY0af18oWYk46F/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em><br/>
   <br/>
+  
+  
+'''
 <img align='middle' src=https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif="230">
+'''
 
 
 
@@ -37,9 +43,7 @@ const aimable = {
 
 My passion for software lies in the ability to think up and create whatever ideas you can dream up, and implementing them elegantly.
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
 
 🌟 **My Expertise:**
