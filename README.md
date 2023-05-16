@@ -3,7 +3,6 @@
 <h2> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM2Yjk5ZDdjY2E3MTc3ZTQxZDZlYjE5NDYxOTYwMWUyNDMwZTFhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RvSfBixNE5CY5wT3p4/giphy-downsized-large.gif" width="230">
 
 <p><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures </a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
 </em></p>
@@ -13,7 +12,7 @@
 [![GitHub MardelDev](https://img.shields.io/github/followers/mardeldev?label=follow&style=social)](https://github.com/mardeldev)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const aimable = {
@@ -26,7 +25,11 @@ const aimable = {
 
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br/>
+  <br/>
+<img align='middle' src=https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif="230">
+
+
 
 ---
 
