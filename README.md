@@ -1,16 +1,17 @@
 
 
-<h2> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
+<h2 align="center"> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
+
+<p align="center"><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures </a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
+</em>
+  <p align="center">
+<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Aimable Mardel&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faimable-mardel%2F"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mardeldev?style=social">
+
+  </p>
+</p>
 
 
-
-<p><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures </a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
-</em></p>
-
-
-
-
-### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> About me...  
+<h2 align="center"><img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> About me... </h2>
 
 
 
@@ -20,18 +21,16 @@ const aimable = {
   code: ["Javascript", "Python", "HTML", "CSS", "Visual Basic"],
   tools: ["React", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
   devops: ["MS Azure"],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-
-
 ```
-
-<img src="https://media.giphy.com/media/RK55kY0af18oWYk46F/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em><br/>
+<p align ="center">
+<img src="https://media.giphy.com/media/RK55kY0af18oWYk46F/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)</em><br/>
   <br/>
+</p>
   
   
-
-<img align='middle' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/36b9d441-49dd-4135-888e-655cc3b4dc6f.svg" width="400"> <br/>
-
+<p align="center">
+<img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/36b9d441-49dd-4135-888e-655cc3b4dc6f.svg" width="400"> <br/>
+</p>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
