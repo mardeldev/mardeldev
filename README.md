@@ -30,7 +30,7 @@ const aimable = {
   
 
  <p align="center"> ### Coding Activity
-<img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/634de14d-6cad-4362-9999-b356a754973a.svg">
+<img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/634de14d-6cad-4362-9999-b356a754973a.svg" width="400">
 </p>
 
 <!--START_SECTION:waka-->
