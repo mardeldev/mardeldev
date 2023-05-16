@@ -2,8 +2,8 @@
 
 <h2> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures</a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
+<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdiZGVjN2E1NDFkNWU3M2EwNWIzODI0MGM1NTVhYjk5MjBkODI1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tra9KYAEPYijwc8SVJ/giphy.gif)" width="230">
+<p><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures </a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
 </em></p>
 
 
