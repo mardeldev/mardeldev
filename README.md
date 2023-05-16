@@ -6,8 +6,8 @@
 <p><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures</a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: aimable-mardel](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aimable-mardel/)](https://www.linkedin.com/in/aimable-mardel/)
+
+[![Linkedin: aimable-mardel](https://img.shields.io/badge/-aimablemardel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aimable-mardel/)](https://www.linkedin.com/in/aimable-mardel/)
 [![GitHub MardelDev](https://img.shields.io/github/followers/mardeldev?label=follow&style=social)](https://github.com/mardeldev)
 
 
