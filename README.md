@@ -2,6 +2,7 @@
 
 <h2> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
+<iframe src="https://giphy.com/embed/tra9KYAEPYijwc8SVJ" align="right" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tra9KYAEPYijwc8SVJ">via GIPHY</a></p>
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdiZGVjN2E1NDFkNWU3M2EwNWIzODI0MGM1NTVhYjk5MjBkODI1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tra9KYAEPYijwc8SVJ/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures </a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
 </em></p>
