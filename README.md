@@ -23,8 +23,8 @@ const aimable = {
   devops: ["MS Azure"],
 ```
 <p align ="center">
-<img src="https://media.giphy.com/media/RK55kY0af18oWYk46F/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)</em><br/>
-  <br/>
+<em>I love connecting with different people so if you want to say hi, let's connect!</em></br></br>
+<strong>Some of my coding stats:</strong>
 </p>
   
   
@@ -32,7 +32,8 @@ const aimable = {
 <p align="center">
 <img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/fc99cab6-78ce-48f6-8b6d-fe2d0659a35a.svg" width="400">
 </p>
-[![Aimable's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardeldev)](https://github.com/mardeldev/github-readme-stats)
+
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -40,6 +41,9 @@ const aimable = {
 ---
 <details>
   <summary> A little more about me... </summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardeldev&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
+  
 👋🏾 Hi there! I'm Aimable, a passionate and experienced professional with a relentless drive to learn, create, and innovate. I have a background in structural engineering, and I have a keen eye for detail and a strong analytical ability. I have a solid foundation in programming and I'm dedicated to crafting high-quality, efficient, and scalable solutions that make a difference.
 
 My passion for software lies in the ability to think up and create whatever ideas you can dream up, and implementing them elegantly.
