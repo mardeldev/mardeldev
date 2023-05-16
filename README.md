@@ -19,7 +19,7 @@
 const aimable = {
   pronouns: "he" | "him",
   code: ["Javascript", "Python", "HTML", "CSS", "Visual Basic"],
-  tools: ["React", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
+  tools: ["React", "Node", "Storybook", "Styled-Components", "Docker"],
   devops: ["MS Azure"],
 ```
 <p align ="center">
