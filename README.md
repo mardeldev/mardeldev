@@ -28,9 +28,11 @@ const aimable = {
 </p>
   
   
-<p align="center">
-<img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/36b9d441-49dd-4135-888e-655cc3b4dc6f.svg" width="400"> <br/>
+
+ <p align="center"> ### Coding Activity
+<img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/634de14d-6cad-4362-9999-b356a754973a.svg">
 </p>
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
