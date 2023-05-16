@@ -3,7 +3,8 @@
 <h2> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODViM2ViYTM3ZTdmNzY0MjBmZTk1MzI0OTg0ODg5MDBhNjhjN2VlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Aerz0i3NmReFLlF7Mu/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM2Yjk5ZDdjY2E3MTc3ZTQxZDZlYjE5NDYxOTYwMWUyNDMwZTFhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RvSfBixNE5CY5wT3p4/giphy-downsized-large.gif" width="230">
+
 <p><em>Software Enginner at <a href="https://digitalfutures.com/">Digital Futures </a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
 </em></p>
 
@@ -15,18 +16,14 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+const aimable = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "Python", "HTML", "CSS", "Visual Basic"],
+  tools: ["React", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
+  devops: ["MS Azure"],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
