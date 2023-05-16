@@ -10,11 +10,9 @@
 
 
 
-### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> About me...  
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
 ```javascript
 const aimable = {
@@ -31,14 +29,16 @@ const aimable = {
   <br/>
   
   
-'''
-<img align='middle' src=https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif="230">
-'''
 
+<img align='middle' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/36b9d441-49dd-4135-888e-655cc3b4dc6f.svg" width="400"> <br/>
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
+<br/>
 ---
-
+<details>
+  <summary> A little more about me... </summary>
 👋🏾 Hi there! I'm Aimable, a passionate and experienced professional with a relentless drive to learn, create, and innovate. I have a background in structural engineering, and I have a keen eye for detail and a strong analytical ability. I have a solid foundation in programming and I'm dedicated to crafting high-quality, efficient, and scalable solutions that make a difference.
 
 My passion for software lies in the ability to think up and create whatever ideas you can dream up, and implementing them elegantly.
@@ -68,3 +68,5 @@ I'm excited to collaborate on projects, discuss ideas, or simply chat about the 
 
 🔍 **Looking for Opportunities:**
 I'm open to new challenges and opportunities to grow as a software engineer. If you're an employer seeking a dedicated, results-driven professional, let's talk about how I can contribute to your team's success!
+  
+</details>
