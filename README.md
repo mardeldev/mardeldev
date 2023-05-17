@@ -42,7 +42,6 @@ const aimable = {
 <details>
   <summary> A little more about me... </summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardeldev&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
   
 👋🏾 Hi there! I'm Aimable, a passionate and experienced professional with a relentless drive to learn, create, and innovate. I have a background in structural engineering, and I have a keen eye for detail and a strong analytical ability. I have a solid foundation in programming and I'm dedicated to crafting high-quality, efficient, and scalable solutions that make a difference.
 
