@@ -37,7 +37,7 @@ const aimable = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37%20lines%20of%20code-blue)
 
@@ -80,13 +80,13 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,7 +100,7 @@ C#                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 29/05/2023 00:34:19 UTC
+ Last Updated on 30/05/2023 00:35:37 UTC
 <!--END_SECTION:waka-->
 <br/>
 ---
