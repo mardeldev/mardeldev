@@ -37,13 +37,13 @@ const aimable = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 72 Bytes Used in GitHub's Storage 
+> 📦 73 Bytes Used in GitHub's Storage 
  > 
 > 🏆 44 Contributions in the Year 2023
  > 
@@ -100,7 +100,7 @@ C#                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 31/05/2023 00:38:04 UTC
+ Last Updated on 01/06/2023 00:46:32 UTC
 <!--END_SECTION:waka-->
 <br/>
 ---
