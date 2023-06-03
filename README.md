@@ -43,7 +43,7 @@ const aimable = {
 
 **🐱 My GitHub Data** 
 
-> 📦 73 Bytes Used in GitHub's Storage 
+> 📦 74 Bytes Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2023
  > 
@@ -80,13 +80,15 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   19 mins             █████████████░░░░░░░░░░░░   51.29 % 
+Markdown                 12 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
+JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +102,7 @@ C#                       1 repo              █████░░░░░░�
 
 
 
- Last Updated on 02/06/2023 00:38:11 UTC
+ Last Updated on 03/06/2023 00:36:41 UTC
 <!--END_SECTION:waka-->
 <br/>
 ---
