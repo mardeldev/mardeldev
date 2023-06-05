@@ -21,7 +21,7 @@ const aimable = {
   code: ["Javascript", "Python", "HTML", "CSS", "Visual Basic"],
   tools: ["React", "Node", "Storybook", "Styled-Components", "Docker"],
   devops: ["MS Azure"],
-  currently-reading: ["Grokking Algorithms | Aditya B", "Building a Career in Software | Dan H", "Once Upon an Algorithm | Martin E" ]
+  currentlyReading: ["Grokking Algorithms | Aditya B", "Building a Career in Software | Dan H", "Once Upon an Algorithm | Martin E" ]
 ```
 <p align ="center">
 <img src="https://media.giphy.com/media/RK55kY0af18oWYk46F/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)</em><br/>
