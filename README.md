@@ -28,11 +28,6 @@ const aimable = {
   <br/>
 </p>
   
-  
-
- <p align="center">
-<img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/fc99cab6-78ce-48f6-8b6d-fe2d0659a35a.svg" width="400">
-</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%208%20mins-blue)
