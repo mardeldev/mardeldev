@@ -23,93 +23,23 @@ const aimable = {
   devops: ["MS Azure"],
 ```
 <p align ="center">
-<em>I love connecting with different people so if you want to say hi, let's connect!</em></br></br>
-<strong>Some of my coding stats:</strong>
+<img src="https://media.giphy.com/media/RK55kY0af18oWYk46F/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)</em><br/>
+  <br/>
 </p>
   
   
 
-<p align="center">
+ <p align="center">
 <img align='center' src="https://wakatime.com/share/@b12e4e1a-3d9d-498d-a23b-d89cc4751cc0/fc99cab6-78ce-48f6-8b6d-fe2d0659a35a.svg" width="400">
 </p>
 
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 76 Bytes Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-🌆 Daytime                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-🌃 Evening                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-🌙 Night                  34 commits          ████████████████████░░░░░   79.07 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Tuesday                  26 commits          ███████████████░░░░░░░░░░   60.47 % 
-Wednesday                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Athens
-
-💬 Programming Languages: 
-Python                   1 hr 53 mins        ██████████████████████░░░   86.21 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-C#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-
- Last Updated on 05/06/2023 00:38:10 UTC
 <!--END_SECTION:waka-->
 <br/>
 ---
 <details>
   <summary> A little more about me... </summary>
-  
-  
 👋🏾 Hi there! I'm Aimable, a passionate and experienced professional with a relentless drive to learn, create, and innovate. I have a background in structural engineering, and I have a keen eye for detail and a strong analytical ability. I have a solid foundation in programming and I'm dedicated to crafting high-quality, efficient, and scalable solutions that make a difference.
 
 My passion for software lies in the ability to think up and create whatever ideas you can dream up, and implementing them elegantly.
