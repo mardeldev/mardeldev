@@ -21,8 +21,10 @@ const aimable = {
   code: ["Javascript", "Java", "Python", "HTML", "CSS", "VB.Net"],
   tools: ["ReactJS", "Next.js", "Tailwind  CSS" "Node.js", "MongoDB", "Bootstrap"],
   devops: ["MS Azure"],
+  testing: ["Jasmine", "Testing Library"],
   machineLearning: ["MS Azure AI", "MS Azure Bot Service"],
   currentlyReading: ["Grokking Algorithms | Aditya B", "Building a Career in Software | Dan H", "Once Upon an Algorithm | Martin E" ]
+};
 ```
   
 
