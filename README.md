@@ -2,10 +2,10 @@
 
 <h2 align="center"> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
-<p align="center"><em>Software Enginner in Training at <a href="https://digitalfutures.com/">Digital Futures </a><img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="30"></br>
+<p align="center"><em>Software Enginner in Training at <a href="https://digitalfutures.com/">Digital Futures </a></br>
 </em>
   <p align="center">
-<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Aimable Mardel&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faimable-mardel%2F"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mardeldev?style=social">
+<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Aimable Mardel&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faimable-mardel%2F">
 
   </p>
 </p>
@@ -18,15 +18,12 @@
 ```javascript
 const aimable = {
   pronouns: "he" | "him",
-  code: ["Javascript", "Python", "HTML", "CSS", "Visual Basic"],
-  tools: ["React", "Node", "Storybook", "Styled-Components", "Docker"],
+  code: ["Javascript", "Java", "Python", "HTML", "CSS", "VB.Net"],
+  tools: ["ReactJS", "Next.js", "Tailwind  CSS" "Node.js", "MongoDB", "Bootstrap"],
   devops: ["MS Azure"],
+  machineLearning: ["MS Azure AI", "MS Azure Bot Service"]
   currentlyReading: ["Grokking Algorithms | Aditya B", "Building a Career in Software | Dan H", "Once Upon an Algorithm | Martin E" ]
 ```
-<p align ="center">
-<img src="https://media.giphy.com/media/RK55kY0af18oWYk46F/giphy.gif" width="60"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you! :)</em><br/>
-  <br/>
-</p>
   
 
 <!--START_SECTION:waka-->
