@@ -1,6 +1,6 @@
 
 
-<h2 align="center">I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
+<h2 align="center">I'm Aimable Mardel!</h2>
 
 <p align="center">Software Engineer</br>
 </em>
