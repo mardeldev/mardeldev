@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
-<p align="center"><em>Software Enginner</br>
+<p align="center"><em>Software Engineer</br>
 </em>
   <p align="center">
 <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Aimable Mardel&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faimable-mardel%2F">
