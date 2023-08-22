@@ -1,6 +1,6 @@
 
 
-<h2 align="center">I'm Aimable Mardel!</h2>
+<h1 align="center">Aimable Mardel</h1>
 
 <p align="center">Software Engineer</br>
 </em>
