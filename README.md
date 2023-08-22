@@ -27,7 +27,7 @@ const aimable = {
 
 <h2 align="center"> Projects </h2>
 
-<h3><a href="https://github.com/mardeldev/honeycomb">Honeycomb</a></h3>A front-end React application, with Tailwind CSS styling. My imagination of what a future bank that deals honey would look like! Take a look at it and be sold on a honey bank <a href="https://mardeldev.github.io/honeycomb/">here</a>.
+<h3><a href="https://github.com/mardeldev/honeycomb">Honeycomb</a></h3>A front-end React application, with Tailwind CSS styling. My imagination of what a future bank that deals with honey would look like! Take a look at it and be sold on a honey bank <a href="https://mardeldev.github.io/honeycomb/">here</a>.
 
 
 <div align="center">
@@ -40,7 +40,7 @@ const aimable = {
 
 ---
 
-<h3><a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a></h3>Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack and Bootstrap styling. JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. Axios was used to send requests to the server. React hooks were utilised to enable certain functionalities such as favouriting tweets. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, login with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Users are then able to log out of their account. Try the app <a href="https://mardel-chitter.netlify.app/">here</a>. Please be patient when logging in as it may take a few seconds to show the tweets.
+<h3><a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a></h3>Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack and Bootstrap styling. JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. Axios was used to send requests to the server. React hooks were utilised to enable certain functionalities such as favouriting tweets. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, log in with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Users are then able to log out of their accounts. Try the app <a href="https://mardel-chitter.netlify.app/">here</a>. Please be patient when logging in as it may take a few seconds to show the tweets.
 
 
 <div align="center">
