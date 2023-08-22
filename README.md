@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
-<p align="center"><em>Software Enginner in Training at <a href="https://digitalfutures.com/">Digital Futures </a></br>
+<p align="center"><em>Software Enginner</br>
 </em>
   <p align="center">
 <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Aimable Mardel&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faimable-mardel%2F">
@@ -11,22 +11,28 @@
 </p>
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> About me... </h2>
+<h2 align="center">About me... </h2>
+
+<h2 align="center"> Projects </h2>
+
+- <a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a> - Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack). JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, login with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Try the app <a href="https://mardel-chitter.netlify.app/">here</>. Please be patient when logging in as it may take a few seconds to show the tweets.
 
 
 
 ```javascript
 const aimable = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "Java", "Python", "HTML", "CSS", "VB.Net"],
-  tools: ["ReactJS", "Next.js", "Tailwind  CSS" "Node.js", "MongoDB", "Bootstrap"],
+  languages: ["Javascript", "Java", "Python", "HTML", "CSS", "VB.Net"],
+  tools: ["MongoDB", "Express","React","Nodejs", "Nextjs", "Tailwind  CSS", "Bootstrap"],
   devops: ["MS Azure"],
-  testing: ["Jasmine", "Testing Library"],
+  testing: ["Jasmine", "Testing Library", "Mocha", "Chai", "Jest"],
+certifications: [{Microsoft Certified: ["Azure Fundamentals", "Azure AI Fundamentals"]}, "Certiport ITS Python", "Oracle Java Certified Foundations Associate", "IBM Agile Explorer"],
   machineLearning: ["MS Azure AI", "MS Azure Bot Service"],
   currentlyReading: ["Grokking Algorithms | Aditya B", "Building a Career in Software | Dan H", "Once Upon an Algorithm | Martin E" ]
 };
 ```
-  
+
+
+
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
