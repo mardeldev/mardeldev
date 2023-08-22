@@ -1,8 +1,8 @@
 
 
-<h2 align="center"> Hi, I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
+<h2 align="center">I'm Aimable Mardel! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47a2qrsss0ett2onebui4y302znawm57o42l3gt4xt&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="50"></h2>
 
-<p align="center"><em>Software Engineer</br>
+<p align="center">Software Engineer</br>
 </em>
   <p align="center">
 <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Aimable Mardel&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faimable-mardel%2F">
@@ -19,7 +19,7 @@ const aimable = {
   tools: ["MongoDB", "Express","React","Nodejs", "Nextjs", "Tailwind  CSS", "Bootstrap"],
   devops: ["MS Azure"],
   testing: ["Jasmine", "Testing Library", "Mocha", "Chai", "Jest"],
-certifications: [{Microsoft Certified: ["Azure Fundamentals", "Azure AI Fundamentals"]}, "Certiport ITS Python", "Oracle Java Certified Foundations Associate", "IBM Agile Explorer"],
+  certifications: [{Microsoft Certified: ["Azure Fundamentals", "Azure AI Fundamentals"]}, "Certiport ITS Python", "Oracle Java Certified Foundations Associate", "IBM Agile Explorer"],
   machineLearning: ["MS Azure AI", "MS Azure Bot Service"],
   currentlyReading: ["Grokking Algorithms | Aditya B", "Building a Career in Software | Dan H", "Once Upon an Algorithm | Martin E" ]
 };
@@ -27,8 +27,54 @@ certifications: [{Microsoft Certified: ["Azure Fundamentals", "Azure AI Fundamen
 
 <h2 align="center"> Projects </h2>
 
-- <a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a> - Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack). JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, login with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Try the app <a href="https://mardel-chitter.netlify.app/">here</>. Please be patient when logging in as it may take a few seconds to show the tweets.
+<h3><a href="https://github.com/mardeldev/honeycomb">Honeycomb</a></h3>A front-end React application, with Tailwind CSS styling. My imagination of what a future bank that deals honey would look like! Take a look at it and be sold on a honey bank <a href="https://mardeldev.github.io/honeycomb/">here</a>.
 
+
+<div align="center">
+  <br/>
+
+<img align="center" width="500" src="https://github.com/mardeldev/mardeldev/assets/73969781/18d43980-5038-4f97-a5bd-086c913cfc28" alt="home page"/>
+</div>
+
+<br/>
+
+---
+
+<h3><a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a></h3>Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack and Bootstrap styling. JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. Axios was used to send requests to the server. React hooks were utilised to enable certain functionalities such as favouriting tweets. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, login with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Users are then able to log out of their account. Try the app <a href="https://mardel-chitter.netlify.app/">here</a>. Please be patient when logging in as it may take a few seconds to show the tweets.
+
+
+<div align="center">
+  <br/>
+<img align= "center" width="500" alt="image" src="https://github.com/mardeldev/chitter-challenge/assets/73969781/dfeafbb3-a793-4b5c-8c1c-79644e050593">
+</div>
+
+---
+
+<h3><a href="https://github.com/mardeldev/mardel-news-network">Mardel News Network</a></h3>Front end application using React and bootstrap styling. Utilising Axios to send get requests to the Guardian API for users to view and digest the latest news. Try out the app <a href="https://mardel-news-network.netlify.app/">here</a>.
+
+
+<div align="center">
+  <br/>
+
+<img align="center" width="500" src="https://github.com/mardeldev/mardeldev/assets/73969781/34bd56e5-43a3-47fd-a8ba-824d454c4413" alt="home page" />
+</div>
+
+<br/>
+
+
+---
+
+<h3><a href="https://github.com/mardeldev/rps-game">Rock Paper Scissors Spock Lizard</a></h3>Server side application that allows you to play a game of rock, paper, scissors - spock and lizard edition. You can play against to computer in single-player mode, or play against a friend in couch-play mode! Try out the app <a href="https://rps-v1--mardeldev.repl.co/">here</a>.
+
+
+<div align="center">
+  <br/>
+<img align="center" width="500" src="https://github.com/mardeldev/mardeldev/assets/73969781/a6172769-e144-4689-b0c2-787dfd01cd86" alt="home page" />
+</div>
+
+<br/>
+
+<h2 align="center">Github Stats 💻 </h2>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
