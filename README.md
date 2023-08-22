@@ -13,12 +13,6 @@
 
 <h2 align="center">About me... </h2>
 
-<h2 align="center"> Projects </h2>
-
-- <a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a> - Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack). JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, login with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Try the app <a href="https://mardel-chitter.netlify.app/">here</>. Please be patient when logging in as it may take a few seconds to show the tweets.
-
-
-
 ```javascript
 const aimable = {
   languages: ["Javascript", "Java", "Python", "HTML", "CSS", "VB.Net"],
@@ -31,7 +25,9 @@ certifications: [{Microsoft Certified: ["Azure Fundamentals", "Azure AI Fundamen
 };
 ```
 
+<h2 align="center"> Projects </h2>
 
+- <a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a> - Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack). JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, login with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Try the app <a href="https://mardel-chitter.netlify.app/">here</>. Please be patient when logging in as it may take a few seconds to show the tweets.
 
 
 <!--START_SECTION:waka-->
