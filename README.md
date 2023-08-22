@@ -74,7 +74,7 @@ const aimable = {
 
 <br/>
 
-<h2 align="center">Github Stats 💻 </h2>
+<h2 align="center">💻 Github Stats 💻</h2>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
