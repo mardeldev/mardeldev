@@ -19,7 +19,7 @@ const aimable = {
   tools: ["MongoDB", "Express","React","Nodejs", "Nextjs", "Tailwind  CSS", "Bootstrap"],
   devops: ["MS Azure"],
   testing: ["Jasmine", "Testing Library", "Mocha", "Chai", "Jest"],
-  certifications: [{Microsoft Certified: ["Azure Fundamentals", "Azure AI Fundamentals"]}, "Certiport ITS Python", "Oracle Java Certified Foundations Associate", "IBM Agile Explorer"],
+  certifications: [{"Microsoft": ["Azure Fundamentals", "Azure AI Fundamentals"]}, "Certiport ITS Python", "Oracle Java Certified Foundations Associate", "IBM Agile Explorer"],
   machineLearning: ["MS Azure AI", "MS Azure Bot Service"],
   currentlyReading: ["Grokking Algorithms | Aditya B", "Building a Career in Software | Dan H", "Once Upon an Algorithm | Martin E" ]
 };
