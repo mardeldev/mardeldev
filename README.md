@@ -45,7 +45,7 @@ const aimable = {
 
 <div align="center">
   <br/>
-<img align= "center" width="500" alt="image" src="https://github.com/mardeldev/chitter-challenge/assets/73969781/dfeafbb3-a793-4b5c-8c1c-79644e050593">
+<img align= "center" width="500" alt="image" src="https://media.discordapp.net/attachments/1110172643895808040/1143968168390447157/image.png?width=1714&height=1070">
 </div>
 
 ---
