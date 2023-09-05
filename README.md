@@ -40,6 +40,16 @@ const aimable = {
 
 ---
 
+<h3><a href="https://github.com/dfx-dynasty/dfx-team-project">Digital Resume Manager Clone</a></h3>Full Stack application: A full-stack application using the MERN stack, which allows a user to update their information for their digital resume. I worked with a team focused on agile principles and values. We worked two sprints. Our goal for sprint one was to get a visually appealing dashboard of a graduate user, which shows their information stored in a Mongo database for the relevant sections. Our goal for sprint 2 was to get a fully functional, tested and editable bio section with a functional form modal. Try the app <a href="https://dfx-clone.netlify.app/">here</a>. Please be patient as the page can take a while to load as the server spins into action.
+
+
+<div align="center">
+  <br/>
+<img align= "center" width="500" alt="image" src="https://cdn.discordapp.com/attachments/1110172643895808040/1147925250823180450/image.png">
+</div>
+
+---
+
 <h3><a href="https://github.com/mardeldev/twitter-clone">Twitter Clone</a></h3>Full Stack application: Twitter app clone using the MERN (MongoDB, Express, React, Node) stack and Bootstrap styling. JWT was used to authenticate users and bycrypt was used to enable password hashing to ensure the security of the app. Axios was used to send requests to the server. React hooks were utilised to enable certain functionalities such as favouriting tweets. The app is fully deployed to online web services for you to use and enjoy. Users can register an account, log in with their username and password, then once logged in users can view all their and other user's tweets. Users can also create new tweets and favourite other people's tweets. Users are then able to log out of their accounts. Try the app <a href="https://mardel-chitter.netlify.app/">here</a>. Please be patient when logging in as it may take a few seconds to show the tweets.
 
 
