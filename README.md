@@ -27,6 +27,19 @@ const aimable = {
 
 <h2 align="center"> Projects </h2>
 
+<h3><a href="https://github.com/mardeldev/brainiak">Brainiak</a></h3>A full-stack application made with Next.js. This app uses the OpenAI and Replicate APIs to allow the user to utilise artificial intelligence and generate content from prompts. Users are able to converse with a general AI chatbot as well as generate images, video, music and code. With the use of the Clerk SDK, users are able to log in, subscribe and manage their accounts. Clerk webhooks and events also update the MySQL database depending on user activity. There is a free tier for new users that allows for 5 generations. This information is stored in a MySQL database, implemented via the Prisma ORM. User support has been implemented with Crisp. Try the app <a href="https://brainiak.vercel.app/">here</a>.
+
+
+<div align="center">
+  <br/>
+
+<img align="center" width="500" src="https://media.discordapp.net/attachments/1110172643895808040/1158302502974922752/image.png?ex=651bc0c4&is=651a6f44&hm=68009543cb600629ced9dd132a3bfadc76f9b4a7d56631de5f6a6ee8ad1c4f30&=&width=1738&height=908" alt="home page"/>
+</div>
+
+<br/>
+
+---
+
 <h3><a href="https://github.com/mardeldev/honeycomb">Honeycomb</a></h3>A front-end React application, with Tailwind CSS styling. My imagination of what a future bank that deals with honey would look like! Take a look at it and be sold on a honey bank <a href="https://mardeldev.github.io/honeycomb/">here</a>.
 
 
