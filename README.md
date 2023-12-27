@@ -127,13 +127,13 @@ Sunday                   51 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Athens
 
 💬 Programming Languages: 
-Java                     43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -149,7 +149,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2023 00:32:00 UTC
+ Last Updated on 27/12/2023 00:31:38 UTC
 <!--END_SECTION:waka-->
 <br/>
 ---
